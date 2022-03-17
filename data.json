@@ -1,0 +1,24 @@
+{
+    "News": {
+        "Telugu": [
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+        ],
+        "Tamil": [
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+        ],
+ "Hindi": [
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+        ],
+       "English": [
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+            {"name":"TV9", "img":"https://telegra.ph/file/89b6ee26cb98ea12477d8.png","link":"https://youtube.com"},
+        ],
+
+
+    }
+}
